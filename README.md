@@ -1,4 +1,4 @@
-![logo](https://github.com/srermya-alt/GOHST_zeus/blob/main/12.jfif)
+![logo](https://github.com/srermya-alt/srermya-alt/blob/main/12.jfif)
 
 <h1 align="center">Hi 👋, I'm Ermia</h1>
 <h3 align="center">A Computer Engineering student exploring software development and building core skills.</h3>
